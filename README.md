@@ -1,1 +1,1 @@
-To run it: node crypto.js
+To run it: `node crypto.js`
